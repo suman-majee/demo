@@ -1,5 +1,4 @@
 # demo
-
 This is my github repo.
-<be>
-Author: Suman Majee -HITK
+<br>
+Author: Suman Majee
